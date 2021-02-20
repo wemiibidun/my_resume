@@ -5,7 +5,7 @@ This is a sketch of my resume which I created with HTML and styled with CSS
 
 **Aim**
 
-The aim of this project was to create a resume that showcases my work experience and skills
+The aim of this project was to create a resume that showcased my work experience and skills
 
 **What I learnt**
 
@@ -25,7 +25,9 @@ The aim of this project was to create a resume that showcases my work experience
 
 **My Take Home**
 
-- You need HTML and CSS to build a beautiful website. HTML can be used for the skeletal and foundational work while CSS is the backbone for styling which I wrote more about [here](http://www.wemiibidun.com/2019/10/5-differences-between-html-css.html)
+- You need HTML and CSS to build a beautiful website. HTML can be used for the skeletal and foundational work while CSS is the backbone for styling.
+
+- I wrote more about the lessons I learnt [here](http://www.wemiibidun.com/2019/10/5-differences-between-html-css.html)
 
 - This was a fun project for me. I learnt a lot about HTML elements and tags and I was also able to build my first resume from this.
 

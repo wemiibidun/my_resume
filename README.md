@@ -44,6 +44,3 @@ Feedback is always welcome. If you have any to give, please email me via wemiibi
 
 
 **Cheers!!!** 😊
-=======
-# my_resume
->>>>>>> 3cf482b4e1e6763d14773097f3cd988ff5e6edf9

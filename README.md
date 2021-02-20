@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ## Hi & Welcome! 👋
 
 
@@ -6,7 +5,7 @@ This is a sketch of my resume which I created with HTML and styled with CSS
 
 **Aim**
 
-The aim of this project was to create a resume that showcases my work experience and skills
+The aim of this project was to create a resume that showcased my work experience and skills
 
 **What I learnt**
 
@@ -26,7 +25,9 @@ The aim of this project was to create a resume that showcases my work experience
 
 **My Take Home**
 
-- You need HTML and CSS to build a beautiful website. HTML can be used for the skeletal and foundational work while CSS is the backbone for styling which I wrote more about [here](http://www.wemiibidun.com/2019/10/5-differences-between-html-css.html)
+- You need HTML and CSS to build a beautiful website. HTML can be used for the skeletal and foundational work while CSS is the backbone for styling.
+
+- I wrote more about the lessons I learnt [here](http://www.wemiibidun.com/2019/10/5-differences-between-html-css.html)
 
 - This was a fun project for me. I learnt a lot about HTML elements and tags and I was also able to build my first resume from this.
 
@@ -34,7 +35,7 @@ The aim of this project was to create a resume that showcases my work experience
 
 **Link to this Github project and my Blog Page Documentation:**
 
-[My Resume](https://wemiibidun.github.io/My_Resume/)
+[My Resume](https://wemiibidun.github.io/my_resume/)
 
 [Code With Me](http://www.wemiibidun.com/search/label/coding)
 
@@ -44,6 +45,3 @@ Feedback is always welcome. If you have any to give, please email me via wemiibi
 
 
 **Cheers!!!** 😊
-=======
-# my_resume
->>>>>>> 3cf482b4e1e6763d14773097f3cd988ff5e6edf9

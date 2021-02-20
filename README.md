@@ -33,7 +33,7 @@ The aim of this project was to create a resume that showcases my work experience
 
 **Link to this Github project and my Blog Page Documentation:**
 
-[My Resume](https://wemiibidun.github.io/My_Resume/)
+[My Resume](https://wemiibidun.github.io/my_resume/)
 
 [Code With Me](http://www.wemiibidun.com/search/label/coding)
 

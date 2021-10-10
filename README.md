@@ -7,7 +7,7 @@ This is a sketch of my online resume that I created with HTML and styled with CS
 
 
 ## Table of contents
-* [Project Aim](#introduction)
+* [Project Aim](#project-aim)
 * [Screenshot](#screenshot)
 * [Lessons Learnt](#technologies-language-library-and-framework)
 * [Take Home](#features)

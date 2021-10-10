@@ -49,11 +49,13 @@ The aim of this project was to create a simple online resume that showcases my w
 - This was a fun project for me. I learnt a lot about HTML elements and tags and I was also able to build my first resume from this.
 
 
-
 ## Link to Publish Resume
 
 [My Resume](https://wemiibidun.github.io/my_resume/)
 
 
+## Status
+Project is: _Complete_
 
-**Cheers!!!** 😊
+## Contact
+Created by [@wemiibidun](https://twitter.com/wemiibidun/). Feel free to contact me via wemiibidun@gmail.com

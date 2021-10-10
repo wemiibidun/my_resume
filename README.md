@@ -20,6 +20,7 @@ This is a sketch of my online resume that I created with HTML and styled with CS
 The aim of this project was to create a simple online resume that showcases my work experience and skills using only HTML and CSS.
 
 ## Screenshot
+![Sample image](https://github.com/wemiibidun/portfolio_resume/blob/main/portfolio_resume.png)
 
 ## Lessons Learnt
 

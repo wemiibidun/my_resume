@@ -1,13 +1,27 @@
+![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/my_resume)
+![GitLab Status](https://flat.badgen.net/github/status/micromatch/micromatch)
+
 ## Hi & Welcome! 👋
 
+This is a sketch of my online resume that I created with HTML and styled with CSS
 
-This is a sketch of my resume which I created with HTML and styled with CSS
 
-**Aim**
+## Table of contents
+* [Project Aim](#introduction)
+* [Screenshot](#screenshot)
+* [Lessons Learnt](#technologies-language-library-and-framework)
+* [Take Home](#features)
+* [Link to Published Resume](#link-to-published-portfolio)
+* [Status](#status)
+* [Contact](#contact)
 
-The aim of this project was to create a resume that showcased my work experience and skills
 
-**What I learnt**
+## Project Aim
+The aim of this project was to create a simple online resume that showcases my work experience and skills using only HTML and CSS.
+
+## Screenshot
+
+## Lessons Learnt
 
 - In this project, I learnt more about HTML 5 and CSS3 elements and tags
 
@@ -23,7 +37,9 @@ The aim of this project was to create a resume that showcased my work experience
 
 - Finally, in CSS, I learnt how to add `background-color` `border-style` `width` amongst others
 
-**My Take Home**
+
+
+## My Take Home
 
 - You need HTML and CSS to build a beautiful website. HTML can be used for the skeletal and foundational work while CSS is the backbone for styling.
 
@@ -33,15 +49,10 @@ The aim of this project was to create a resume that showcased my work experience
 
 
 
-**Link to this Github project and my Blog Page Documentation:**
+## Link to Publish Resume
 
 [My Resume](https://wemiibidun.github.io/my_resume/)
 
-[Code With Me](http://www.wemiibidun.com/search/label/coding)
-
-**Feedback**
-
-Feedback is always welcome. If you have any to give, please email me via wemiibidun@gmail.com
 
 
 **Cheers!!!** 😊

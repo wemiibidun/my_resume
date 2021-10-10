@@ -22,6 +22,7 @@ The aim of this project was to create a simple online resume that showcases my w
 ## Screenshot
 ![Sample image](https://github.com/wemiibidun/my_resume/blob/master/resume_screenshot.png)
 
+
 ## Lessons Learnt
 
 - In this project, I learnt more about HTML 5 and CSS3 elements and tags
@@ -49,7 +50,7 @@ The aim of this project was to create a simple online resume that showcases my w
 - This was a fun project for me. I learnt a lot about HTML elements and tags and I was also able to build my first resume from this.
 
 
-## Link to Publish Resume
+## Link to Published Resume
 
 [My Resume](https://wemiibidun.github.io/my_resume/)
 

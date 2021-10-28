@@ -24,7 +24,7 @@ The aim of this project was to create a simple online resume that showcases my w
 
 
 ## Lessons Learnt
-![HTML](https://img.shields.io/badge/HTML-239120?&style=for-the-badge&logo=html&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-239120?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 - In this project, I learnt more about HTML 5 and CSS3 elements and tags

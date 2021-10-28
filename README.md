@@ -1,5 +1,5 @@
 ![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/my_resume)
-![GitLab Status](https://flat.badgen.net/github/status/micromatch/micromatch)
+
 
 ## Hi & Welcome! 👋
 
@@ -24,6 +24,8 @@ The aim of this project was to create a simple online resume that showcases my w
 
 
 ## Lessons Learnt
+![HTML](https://img.shields.io/badge/HTML-239120?&style=for-the-badge&logo=html&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 - In this project, I learnt more about HTML 5 and CSS3 elements and tags
 

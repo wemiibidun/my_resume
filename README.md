@@ -1,5 +1,5 @@
 ![GitLab Code Size](https://img.shields.io/github/languages/code-size/wemiibidun/my_resume)
-![GitLab Code Status](https://img.shields.io/website-up-down-green-red/https://wemiibidun.github.io/my_resume/)
+![GitLab Code Status](https://img.shields.io/website-up-down-green-red/https://wemiibidun.github.io/my_resume)
 
 
 ## Hi & Welcome! 👋
